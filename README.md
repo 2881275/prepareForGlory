@@ -1,2 +1,0 @@
-# prepareForGlory
-preparation for glory
